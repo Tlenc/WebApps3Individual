@@ -4,6 +4,11 @@
     "description" : "my online lesson store",
     "icons": [
         {
+            "src": "images/icon32.jpeg",
+            "sizes": "32x32",
+            "type" : "image/jpeg"
+        },
+        {
             "src": "images/icon.jpeg",
             "sizes": "512x512",
             "type" : "image/jpeg"
