@@ -16,6 +16,12 @@
             text-align: center;
         }
     </style>
+
+    <script>
+        if ('serviceWorker' in navigator){
+            navigator.serviceWorker.register('service_worker.js');
+        }
+    </script>
 </head> 
 
 <!--setting up the document with imports -->
