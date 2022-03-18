@@ -18,7 +18,7 @@
     </style>
 
     <script>
-        if (ServiceWorker in navigator){
+        if ('serviceWorker' in navigator){
             navigator.serviceWorker.register('service_worker.js');
         }
     </script>
