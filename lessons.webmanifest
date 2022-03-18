@@ -4,14 +4,14 @@
     "description" : "my online lesson store",
     "icons": [
         {
-            "src": "images/icon32.jpeg",
+            "src": "images/icon32.png",
             "sizes": "32x32",
-            "type" : "image/jpeg"
+            "type" : "image/png"
         },
         {
-            "src": "images/icon.jpeg",
+            "src": "images/icon.png",
             "sizes": "512x512",
-            "type" : "image/jpeg"
+            "type" : "image/png"
         }
     ],
     "start_url": "index.html",
